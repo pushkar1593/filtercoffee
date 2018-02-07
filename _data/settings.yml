@@ -39,7 +39,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Iyer's Filter Coffee** band description.band description.band description.band description.band description.band description.band description.band description.band description.band description.band description.band description.band description.
+  **Iyer’s Filter Coffee** is a Garage/Indie rock band based our of Bangalore, formed in Oct 2017. Drawing inspiration from bands such as the Strokes, Oasis, Arctic Monkeys, RHCP and the Beatles, this four-piece band is high on energy and is sure to leave you craving more. Despite the little time spent together, the band has come up with couple of originals and is working towards recording their first EP over the next few months.
 
 #skills:
 #- {name: Communication, value: '9'}
@@ -74,22 +74,25 @@ clients:
 - {avatar: 'face-aaroni.jpg',
   name: 'Dennis Dey',
   title: 'Bassist',
-  quote: '<p>Dennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis DeyDennis Dey..............</p>',
+  quote: '<p>Belonging to a family brimming with music, Dennis was meant to carry the legacy of sheer awesomeness forward. From picking up the Acoustic Guitar as a child, to playing the Bass in college, to being a regular in the Delhi music circuit. Dennis has played 100+live shows and was the winner of Season 2 of Hindustan Times Friday Jam with his previous band.  Apart from serving bassist duties, he is currently the "Guy in the Chair" for the band, helping them with Creatives and Audio-Video editing.
+</p>',
   logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
   name: 'Rushil Mishra',
   title: 'Vocalist',
-  quote: '<p>Rushil MishraRushil MishraRushil MishraRushil MishraRushil MishraRushil MishraRushil MishraRushil MishraRushil MishraRushil MishraRushil Mishra...........</p>',
+  quote: '<p>Rushil has been playing music for a while now. The guitar player, who also happens to sing a little, has played at over 50 live shows, and started writing original music around 2 years ago. Heavily influenced by bands like RHCP and Arctic Monkeys, this former (wannabe) Jordan Rudess impersonator might just leave you wanting more!
+</p>',
   logo: 'logo2.png'}
 - {avatar: 'face-jackiesaik.jpg',
   name: 'Pushkara Ravindra',
   title: 'Guitarist',
-  quote: '<p>Pushkar RavindraPushkar RavindraPushkar RavindraPushkar RavindraPushkar RavindraPushkar RavindraPushkar RavindraPushkar RavindraPushkar Ravindra.........</p>',
+  quote: '<p>Pushkar has had a long musical background. While he started training as a Carnatic classical vocalist in his early years, his tastes moved to a contemporary one. He has been playing the guitar for almost 7 years with influences ranging from Classic Rock to Modern Indie music. Wielding an electric stage presence and smooth technique, this short shredder never fails to excite any crowd.
+</p>',
   logo: 'logo3.png'}
 - {avatar: 'face-teleject.jpg',
   name: 'Sachin Iyer',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p>Sachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin IyerSachin Iyer.............</p>',
+  title: 'Drummer',
+  quote: '<p>Sachin has been playing the drums for more than 9 years playing over 40 live shows.  Growing up, Iyer was heavily influenced by the drumming of greats such as Gavin Harrison, Danny Carey, Chad Smith and Mike Portnoy, infusing a style of drumming that combines elements of hard rock, blues and progressive music and more subtly, jazz, into the band.  Watch out for this guy and his power-packed drumming.  Watch out for this guy and his power-packed drumming.</p>',
   logo: 'logo4.png'}
 
 
@@ -99,7 +102,7 @@ clients:
 social:
 - {icon: 'soundcloud', link: 'https://soundcloud.com/iyersfiltercoffee'}
 - {icon: 'twitter', link: 'https://www.facebook.com/iyersfiltercoffee'}
-- {icon: 'instagram', link: 'http://www.thepictaram.club/instagram/iyersfiltercoffee'}
+- {icon: 'instagram', link: 'https://www.instagram.com/iyersfiltercoffee/'}
 - {icon: 'facebook', link: 'https://www.facebook.com/iyersfiltercoffee/'}
 - {icon: 'youtube', link: 'https://www.youtube.com/c/iyersfiltercoffee'}
 
