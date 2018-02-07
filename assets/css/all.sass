@@ -23,6 +23,19 @@ $textColor: {{ site.data.layout.textColor }}
 $headlineColor: {{ site.data.layout.headlineColor }}
 $bgcolor: {{ site.data.layout.bgcolor }}
 $documentBackgroundColor: {{ site.data.layout.documentBackgroundColor }}
+body
+  nav
+    float: right
+    padding: 10px 30px 0 0
 
+    a
+      display: inline-block
+      margin-left: 20px
+
+      color: rgba(1,0,0,0.7)
+      @extend %small-bold
+
+      &:hover
+        color: rgba(1,0,0,1)
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'

@@ -20,6 +20,12 @@
 </head>
 <body>
 
+  <nav>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+
 {% include header.html %}
 
 {% include about.html %}
