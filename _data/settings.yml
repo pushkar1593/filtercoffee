@@ -65,7 +65,14 @@ projects:
 - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
+#-------------------------------
+# Video Section
 
+videos:
+- {link: '',
+   name: ''}
+- {link: '',
+   name: ''}
 
 #-------------------------------
 # Clients Section
@@ -101,7 +108,7 @@ clients:
 
 social:
 - {icon: 'soundcloud', link: 'https://soundcloud.com/iyersfiltercoffee'}
-- {icon: 'twitter', link: 'https://www.facebook.com/iyersfiltercoffee'}
+- {icon: 'twitter', link: 'https://twitter.com/iyersfilterkapi'}
 - {icon: 'instagram', link: 'https://www.instagram.com/iyersfiltercoffee/'}
 - {icon: 'facebook', link: 'https://www.facebook.com/iyersfiltercoffee/'}
 - {icon: 'youtube', link: 'https://www.youtube.com/c/iyersfiltercoffee'}
