@@ -8,8 +8,11 @@ email: iyersfiltercoffee@gmail.com
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
+- {name: Home, url: '#'}
+- {name: News, url: '#news'}
 - {name: About The Band, url: '#about-me'}
 # - {name: Videos, url: '#work'}
+# - {name: Videos, url: '#videos'}
 - {name: Band Profile, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
@@ -22,6 +25,12 @@ seo:
   description: 'Provide a description for your website to make it visible to search engines.'
   rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
   rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+news-blurb: Checkout our latest single Soma on [Ok Listen](https://www.oklisten.com/album/soma)
+ 
+
+  [Catch us](https://www.eventshigh.com/detail/Bangalore/207ff3dfb6659b5e123a29eb1669287f-iyer-s-filter-coffee-sunday?src=stream)
+ at Hard Rock Cafe, Bangalore, on the 15th of April
 
 #-------------------------------
 # Google Analytics Section
@@ -39,7 +48,16 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Iyer’s Filter Coffee** is a Garage/Indie rock band based our of Bangalore, formed in Oct 2017. Drawing inspiration from bands such as the Strokes, Oasis, Arctic Monkeys, RHCP and the Beatles, this four-piece band is high on energy and is sure to leave you craving more. Despite the little time spent together, the band has come up with couple of originals and is working towards recording their first EP over the next few months.
+  **Iyer’s Filter Coffee** is a Garage/Indie rock band based out of Bangalore. 
+  Drawing inspiration from bands such as The Strokes, Oasis, Arctic Monkeys, RHCP and The Beatles, this four-piece band is high on energy 
+  and is sure to leave you craving more.  
+
+  .
+
+
+  IFC was formed with the intent of creating and playing original music live, keeping up with the
+    times as indie music continues to grow and evolve. Having released their first single in March 2017, the band is well on course
+     to deliver an EP in the next few months that will look to make a dent in the Indie music scene in India.
 
 #skills:
 #- {name: Communication, value: '9'}
@@ -69,10 +87,10 @@ projects:
 # Video Section
 
 videos:
-- {link: '',
-   name: ''}
-- {link: '',
-   name: ''}
+- {link: 'https://www.youtube.com/watch?v=ov5UnBhj3Rk',
+   name: 'Shadow of Mine'}
+- {link: 'https://www.youtube.com/watch?v=Gv3cIo3bfUI',
+   name: 'Eleanor'}
 
 #-------------------------------
 # Clients Section
