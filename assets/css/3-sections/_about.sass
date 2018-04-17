@@ -1,5 +1,6 @@
 .face-lockup
   max-width: 780px
+  list-style-type: none
   +display(flex)
   margin: 0 auto
   +align-items(center)
@@ -11,24 +12,28 @@
     background-position: center
     background-image: url(../img/#{$avatar-path})
     +size(200px)
-    +order(3)
+    +order(4)
 
   [class^="icon-"]
-    +size(100px)
+    +size(50px)
     background: $documentBackgroundColor
     border-radius: 50%
 
     path
       fill: $accent
 
-    &.icon-pencil
+    &.icon-amazon
       +order(1)
-    &.icon-mouse
+    &.icon-soundcloud
       +order(2)
-    &.icon-browser
-      +order(4)
-    &.icon-video
+    &.icon-spotify
+      +order(3)
+    &.icon-apple
       +order(5)
+    &.icon-tube
+      +order(6)
+    &.icon-google
+      +order(7)
 
 @media screen and (max-width: 650px)
   .face-lockup
