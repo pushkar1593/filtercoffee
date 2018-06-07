@@ -24,11 +24,19 @@ menu:
 seo:
   description: 'Iyer’s Filter Coffee is a garage rock band from Bangalore. Drawing inspiration from bands such as the Strokes, the Arctic Monkeys, RHCP and the Beatles, this four-piece band is high on energy and is sure to leave you craving more.'
 
-news-blurb: Checkout our latest single Soma on [Ok Listen](https://www.oklisten.com/album/soma)
+news-blurb: Checkout our latest single Soma on [Ok Listen](https://www.oklisten.com/album/soma), [Spotify](https://open.spotify.com/artist/2WnOeeb83H28ijUORF8lFr?si=v5_RxIV_SJO6TQ9OLNzmJQ)
+            and [Apple Music](https://apple.co/2vkBSRN)
  
 
-  [Catch us](https://www.eventshigh.com/detail/Bangalore/207ff3dfb6659b5e123a29eb1669287f-iyer-s-filter-coffee-sunday?src=stream)
- at Hard Rock Cafe, Bangalore, on the 15th of April
+  [Catch us](https://www.facebook.com/events/2103525893199640/)
+ at Hard Rock Cafe, Hyderabad, on the 19th of April.
+
+#-------------------------------
+# Video Section
+
+video:
+  a: blah
+  youtubeId: PFIsgXxZYUo
 
 #-------------------------------
 # Google Analytics Section
